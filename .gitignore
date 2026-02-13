@@ -1,0 +1,20 @@
+# deps
+node_modules/
+.pnpm-store/
+
+# next.js
+.next/
+out/
+
+# env
+.env
+.env*.local
+
+# vercel
+.vercel
+
+# misc
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+Thumbs.db
